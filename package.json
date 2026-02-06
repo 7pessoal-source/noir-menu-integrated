@@ -16,6 +16,7 @@
     "sanity:deploy": "cd sanity && sanity deploy"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.48.1",
     "@sanity/client": "^6.22.2",
     "@sanity/image-url": "^1.0.2",
     "@hookform/resolvers": "^3.10.0",
